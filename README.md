@@ -8,7 +8,7 @@ icon: map-pin
 
 ### Purpose&#x20;
 
-This page defines what Derivity is at a system level and the problem it exists to solve.
+This page defines what Derivity is at a system level and the problem it exists to solve in real world.
 
 ### Description
 
@@ -16,7 +16,7 @@ Derivity is a multi-agent financial decision-intelligence system designed to sup
 
 It does not provide financial advice, does not execute trades, and does not act on behalf of users. Instead, it helps users understand situations, risks, trade-offs, and possible scenarios through controlled reasoning.
 
-### What Makes Derivity Different
+### What Makes Derivity Different&#x20;
 
 Derivity separates:
 
