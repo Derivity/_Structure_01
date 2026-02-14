@@ -6,7 +6,7 @@ icon: map-pin
 
 ## What is Derivity
 
-### Purpose
+### Purpose&#x20;
 
 This page defines what Derivity is at a system level and the problem it exists to solve.
 
